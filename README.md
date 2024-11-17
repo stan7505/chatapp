@@ -5,7 +5,6 @@ This is a real-time chat application built using Flutter and Firebase. It allows
 
 - Real-Time Messaging
 - Push Notifications
-- Direct Reply from Notifications
 - Firebase Authentication
 - Firebase Firestore for Data Storage
 - Firebase Cloud Messaging (FCM) Latest version (Firebase Cloud Messaging API (V1))
