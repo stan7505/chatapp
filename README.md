@@ -1,4 +1,4 @@
-# Chat Application
+# Chat Application Using Flutter and Firebase
 
 This is a real-time chat application built using Flutter and Firebase. It allows users to send and receive messages, receive push notifications, and it also allows users to pick a theme. You can log in with Firebase email or Google Authentication, which is stored as a JSON file. There are a lot of other applications that could use this chat app as a starting point.
 ## Features
