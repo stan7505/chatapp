@@ -63,7 +63,7 @@ class PushNotificationService {
       String messages, String chatroomID) async {
     final String serverKey = await this.serverKey;
     String endpoint =
-        'https://fcm.googleapis.com/v1/projects/chatnew-673e5/messages:send';
+        'https://fcm.googleapis.com/v1/projects/YOUR_PROJECT/messages:send';
     final FirebaseFirestore firestore = FirebaseFirestore.instance;
 
     Future<String> getusername() async {
